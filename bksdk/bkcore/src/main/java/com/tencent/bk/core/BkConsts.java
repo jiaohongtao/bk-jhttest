@@ -19,4 +19,6 @@ public final class BkConsts {
     public static final String SITE_URL = "SITE_URL"; //APP URL
     public static final String STATIC_URL = "STATIC_URL"; // 静态资源URL
     public static final String BK_PAAS_HOST = "BK_PAAS_HOST";
+    public static final String BK_J_USER = "BK_J_USER";
+
 }
