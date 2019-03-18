@@ -1,2 +1,0 @@
-# bk-jhttest
-bk-jhttest
